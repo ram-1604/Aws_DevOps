@@ -1,3 +1,4 @@
 Git command pratices file
 
 This line is to check git diff in two branches 
+this line is for git merge
